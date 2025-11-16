@@ -1,2 +1,0 @@
-user = kc3
-password = krish
